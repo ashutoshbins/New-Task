@@ -14,3 +14,4 @@ textblob
 transformers
 scikit-learn
 nltk
+plotly
