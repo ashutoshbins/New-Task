@@ -9,4 +9,9 @@ streamlit
 faiss-cpu
 sentence-transformers
 python-dotenv
+PyPDF2
 google-generativeai
+textblob
+transformers
+scikit-learn
+nltk
