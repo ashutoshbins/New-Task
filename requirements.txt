@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+pandas
+json2csv
+schedule
+dayjs
+streamlit
+faiss-cpu
+sentence-transformers
+python-dotenv
+google-generativeai
