@@ -86,7 +86,7 @@ start_date = st.date_input("Start Date", value=date.today() - timedelta(days=365
 if st.button("Fetch Historical Data"):
     with st.spinner("🔄 Fetching data from Node.js API..."):
         try:
-            api_url = "http://localhost:3000/historical"
+            api_url = "https://historicalapi-js.onrender.com/historical"
             params = {"symbol": symbol, "from": start_date.strftime("%d-%m-%Y")}
             response = requests.get(api_url, params=params)
             if response.status_code == 200:
