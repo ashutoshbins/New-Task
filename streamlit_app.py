@@ -3,7 +3,6 @@ import pandas as pd
 import requests
 from datetime import date, timedelta
 import os
-from summarizer import summarize_text
 from dotenv import load_dotenv
 import PyPDF2
 import faiss
