@@ -15,7 +15,7 @@ A unified Retrieval-Augmented Generation (RAG) portal integrating:
 
 🔗 All accessible from a single web URL — no local installation needed.
 
-👉 Live Demo: https://taskdone.streamlit.app
+👉 Live Demo: [https://iamyourguide.streamlit.app/]
 
 🚀 Features
 ✅ Unified RAG Interface
