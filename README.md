@@ -19,7 +19,7 @@ A unified Retrieval-Augmented Generation (RAG) portal integrating:
 use 
 https://taskdone.streamlit.app/
 
-if above link fails
+if historical data is not getting fetched there is some problem with render you can run the historicalAPI.js locally to check if the api is working or not 
 
 🚀 Features
 ✅ Unified RAG Interface
